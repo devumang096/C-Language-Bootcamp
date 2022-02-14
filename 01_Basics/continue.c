@@ -8,7 +8,7 @@ int addition(int x,int y)//global function
 int main()
 {
    // int x,y;
-  int x,y,c;
+    int x,y,c;
     c=addition(10,20);
     printf("%d",c);
     return 0;
